@@ -9,7 +9,7 @@ This project is designed and implemented for the science fair, featuring a compu
   Scene 1 is a virtual space for a technology exhibition hall, shaped like a petal. You can access two exhibition halls through this space.  
   
 •  Provide an exit button
-•  3D audio: Interactive music and background music.
+•  3D audio: interactive music （button click，scene switching）  and background music.
 •  The timer is located in the upper left corner, with corresponding sound effects.  
 
 <img width="845" alt="1" src="https://github.com/user-attachments/assets/2dd32150-8188-4394-948a-d5f679a48149">
