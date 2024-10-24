@@ -6,7 +6,7 @@ This project is designed and implemented for the science fair, featuring a compu
 
 **scene 1  Exhibition Hall:**  
 
-  Scene 1 is a virtual space for a technology exhibition hall, shaped like a petal. You can access two exhibition halls through this space.  
+Scene 1 is a virtual space for a technology exhibition hall, shaped like a petal. You can access two exhibition halls through this space.  
   
 •  Provide an exit button
 •  3D audio: Interactive music and background music.
