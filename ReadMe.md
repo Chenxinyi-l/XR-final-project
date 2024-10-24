@@ -10,7 +10,8 @@ This project is designed and implemented for the science fair, featuring a compu
   
 •  Provide an exit button
 •  3D audio: Interactive music and background music.
-•  The timer is located in the upper left corner, with corresponding sound effects.
+•  The timer is located in the upper left corner, with corresponding sound effects.  
+
 <img width="845" alt="1" src="https://github.com/user-attachments/assets/2dd32150-8188-4394-948a-d5f679a48149">
 (outside）
 <img width="724" alt="3" src="https://github.com/user-attachments/assets/9fed4fe9-b9bb-4653-9c36-060d45f35bd2">
