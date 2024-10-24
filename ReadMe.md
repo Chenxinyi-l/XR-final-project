@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Group No.seven
 Group member: Xinyi CHEN & Yizhen K
 
