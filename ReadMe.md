@@ -1,6 +1,9 @@
-Group No.seven
-Group member: Xinyi CHEN & Yizhen KE
-[document in the release v1.0.0]
+Group No.seven  
+
+Group member: Xinyi CHEN & Yizhen KE  
+
+[document in the release v1.0.0]  
+
 **Project introduction:**
 This project is designed and implemented for the science fair, featuring a computer-themed VR exhibition to help the young develop an interest in computers. It contains three scenes
 
