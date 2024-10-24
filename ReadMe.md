@@ -6,7 +6,7 @@ This project is designed and implemented for the science fair, featuring a compu
 
 **scene 1  Exhibition Hall:**  
 
-Scene 1 is a virtual space for a technology exhibition hall, shaped like a petal. You can access two exhibition halls through this space.  
+  Scene 1 is a virtual space for a technology exhibition hall, shaped like a petal. You can access two exhibition halls through this space.  
   
 •  Provide an exit button
 •  3D audio: Interactive music and background music.
@@ -18,7 +18,7 @@ Scene 1 is a virtual space for a technology exhibition hall, shaped like a petal
 
 **scene 2  Binary Laboratory:**  
 
-     Users can click on the computer to open the binary calculator panel for learning, and click computer again to close panel.
+Users can click on the computer to open the binary calculator panel for learning, and click computer again to close panel.
 
 <img width="728" alt="4" src="https://github.com/user-attachments/assets/e4f268d0-baad-4ab6-baf4-1e122af5eaf5">
 
