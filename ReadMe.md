@@ -4,7 +4,8 @@ Group member: Xinyi CHEN & Yizhen KE
 **Project introduction:**
 This project is designed and implemented for the science fair, featuring a computer-themed VR exhibition to help the young develop an interest in computers. It contains three scenes
 
-**scene 1  Exhibition Hall:**
+**scene 1  Exhibition Hall:**  
+
   Scene 1 is a virtual space for a technology exhibition hall, shaped like a petal. You can access two exhibition halls through this space.  
   
 •  Provide an exit button
@@ -36,6 +37,7 @@ There are two ways to interact:
 <img width="845" alt="11" src="https://github.com/user-attachments/assets/35e51376-40be-45e0-b700-3568d2be4383">
 
 
-**scene 3  Computer Architecture Laboratory:**
+**scene 3  Computer Architecture Laboratory:**  
+
 This exhibition hall showcases the different components that make up a computer and their introductions. Users can gain a detailed understanding of the functions and appearances of each component.
 <img width="727" alt="25" src="https://github.com/user-attachments/assets/ddf274ab-ba7c-47de-a801-441a05e8fbdb">
